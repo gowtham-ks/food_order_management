@@ -66,3 +66,4 @@ gcc bill.c -o bill.out
 🧩 Modular structure for scalability
 
 🎯 Lightweight and fast execution
+
